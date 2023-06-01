@@ -24,4 +24,7 @@ Our project aims to address two key challenges in chest X-ray (CXR) diagnostics 
 ├── reports/                             <- result analysis
 │   ├── final_reports.pdf                <- report for result analysis
 │   ├── ppt.pdf                          <- PPT for result analysis
+│ 
+├── data/                                <- data summary
+│   ├── data_source.txt                  <- data source link
 ```
