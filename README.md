@@ -20,4 +20,8 @@ Our project aims to address two key challenges in chest X-ray (CXR) diagnostics 
 │   ├── sampling.ipynb                   <- sampling datasets
 │   ├── YOLO_v5.ipynb                    <- YOLO v5 transfer learning model
 │   ├── BBR_in_house.ipynb               <- in-house object detection
+│ 
+├── reports/                             <- result analysis
+│   ├── final_reports.pdf                <- report for result analysis
+│   ├── ppt.pdf                          <- PPT for result analysis
 ```
