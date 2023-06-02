@@ -6,25 +6,25 @@ Our project aims to address two key challenges in chest X-ray (CXR) diagnostics 
 ## Directory structure 
 
 ```
-├── README.md                            <- You are here
+├── README.md                                 <- You are here
 │
-├── EDA/                                 <- Exploratory Data Analysis for classification and object detection
-│   ├── Classification_EDA.ipynb         <- EDA for classification
-│   ├── Object_Detection_EDA.ipynb       <- EDA for Object Detection
+├── EDA/                                      <- Exploratory Data Analysis for classification and object detection
+│   ├── Classification_EDA.ipynb              <- EDA for classification
+│   ├── Object_Detection_EDA.ipynb            <- EDA for Object Detection
 │
-├── Classification/                      <- Source Code for pneumonia classification
-│   ├── CNN.ipynb                        <- CNN model
-│   ├── VGG16.ipynb                      <- VGG16 transfer learning model
+├── Classification/                           <- Source Code for pneumonia classification
+│   ├── CNN.ipynb                             <- CNN model
+│   ├── VGG16.ipynb                           <- VGG16 transfer learning model
 │ 
-├── Object_Detection/                    <- Source Code for object detection
-│   ├── sampling.ipynb                   <- sampling datasets
-│   ├── YOLO_v5.ipynb                    <- YOLO v5 transfer learning model
-│   ├── BBR_in_house.ipynb               <- in-house object detection
+├── Object_Detection/                         <- Source Code for object detection
+│   ├── sampling.ipynb                        <- sampling datasets
+│   ├── YOLO_v5.ipynb                         <- YOLO v5 transfer learning model
+│   ├── BBR_in_house.ipynb                    <- in-house object detection
 │ 
-├── reports/                             <- result analysis
-│   ├── final_reports.pdf                <- report for result analysis
-│   ├── Deep Learning Presentation.pdf   <- PPT for result analysis
+├── reports/                                  <- Result analysis
+│   ├── Deep Learning Report.pdf              <- report for result analysis
+│   ├── Deep Learning Presentation.pdf        <- PPT for result analysis
 │ 
-├── data/                                <- data summary
-│   ├── data_source.txt                  <- data source link
+├── data/                                     <- Data summary
+│   ├── data_source.txt                       <- Data source link
 ```
